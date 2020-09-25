@@ -16,6 +16,8 @@ $query = "SELECT * FROM aanmeldingen";
 
 $result = $conn->query($query);
 
+$yostrijders = 'Je bolle mama is heel bol neef';
+
 
 // $aantalRijen = $result->num_rows;
 // $aantalVelden = $result->field_count;
